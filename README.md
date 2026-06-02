@@ -149,6 +149,27 @@ CodeAlpha_DataAnalytics
 ![Price Distribution](price_distribution.png)
 
 
+
+
+## Screenshots
+
+### Web Scraping Output
+![Scraping Output](screenshots/scraping_output.png)
+
+### EDA Output
+![EDA Output](screenshots/eda_output.png)
+
+### Project Structure
+![Project Structure](screenshots/project_structure.png)
+
+### Rating Distribution
+![Rating Distribution](screenshots/rating_distribution.png)
+
+### Price Distribution
+![Price Distribution](screenshots/price_distribution.png)
+
+
+
 ## Author
 
 **Porapu Pavan Sandeep Kumar**
