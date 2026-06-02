@@ -138,6 +138,17 @@ CodeAlpha_DataAnalytics
 
 ---
 
+## Visualizations
+
+### Rating Distribution
+
+![Rating Distribution](rating_distribution.png)
+
+### Price Distribution
+
+![Price Distribution](price_distribution.png)
+
+
 ## Author
 
 **Porapu Pavan Sandeep Kumar**
